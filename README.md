@@ -1,5 +1,2 @@
-function doSomething(thing) {
-console.log(thing)
-}
-
-doSomething('Anything')
+var name = "Joe"
+var height = "74"
